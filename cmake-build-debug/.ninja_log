@@ -1,0 +1,5 @@
+# ninja log v5
+0	49	1722307172183037807	build.ninja	4891e64206c1f402
+0	415	1722304716529056976	CMakeFiles/stack_virtual_machine.dir/main.cpp.o	7e3399a694e5e4cc
+2	276	1722305157041013771	CMakeFiles/stack_virtual_machine.dir/stack-vm.cpp.o	d1903ef7328ebea6
+276	300	1722305157066600332	stack_virtual_machine	8926c7da0e8e9a68
